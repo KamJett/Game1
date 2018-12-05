@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "6cd99a58-93ce-417b-8e7d-871147342e2b",
+            "Value": {
+                "id": "cd42a647-44d7-4cb3-8152-3a54cb85fc6a",
+                "resourcePath": "sprites\\enemy2_king\\enemy2_king.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "71abe3f7-8148-4916-8cb5-59d885bd2f7f",
             "Value": {
                 "id": "1b9bfc13-c313-4304-9e80-a10483104b90",
