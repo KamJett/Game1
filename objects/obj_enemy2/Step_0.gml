@@ -42,9 +42,10 @@ if(hp <= 0)
 	/// @DnDApplyTo : 5417116c-9338-4119-a0a7-a0e8c1752ba2
 	/// @DnDParent : 5C0656B8
 	/// @DnDArgument : "expr" "15"
+	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "thescore"
 	with(obj_score) {
-	thescore = 15;
+	thescore += 15;
 	
 	}
 
